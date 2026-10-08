@@ -1,4 +1,4 @@
-# Olá, mundo! 👋 Eu sou o [Seu Nome]
+# Olá, seja bem-vindo ao meu perfil! 👋 Eu sou oozeias.
 
 📍 **São Luís, Maranhão, Brasil**  
 💻 **Desenvolvedor Front-end & Analista de Suporte Técnico N1**
